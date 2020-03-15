@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  country: MyString
+  state_province: MyString
+  population: 1
+  landarea: 1.5
+  mayor: MyString
+
+two:
+  name: MyString
+  country: MyString
+  state_province: MyString
+  population: 1
+  landarea: 1.5
+  mayor: MyString
