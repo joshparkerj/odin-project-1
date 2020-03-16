@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :movies
   resources :cities
   root 'cars#index'
   resources :cars
