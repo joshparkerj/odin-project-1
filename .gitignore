@@ -31,3 +31,5 @@
 /config/master.key
 
 heroku-create.json
+git-credential-manager/
+install-from-source.sh
