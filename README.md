@@ -1,3 +1,5 @@
+[![Ruby on Rails CI](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml)
+
 # README
 
 This README would normally document whatever steps are necessary to get the
