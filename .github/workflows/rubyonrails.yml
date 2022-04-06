@@ -53,3 +53,5 @@ jobs:
       - run: bundler-audit --update
       - run: brakeman -q -w2
       - run: rubocop --parallel
+      - name: Codecov
+        uses: codecov/codecov-action@v2.1.0
