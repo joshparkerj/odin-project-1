@@ -1,4 +1,4 @@
-[![Ruby on Rails CI](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml)
+[![Ruby on Rails CI](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/joshparkerj/odin-project-1/actions/workflows/rubyonrails.yml)[![codecov](https://codecov.io/gh/joshparkerj/odin-project-1/branch/master/graph/badge.svg?token=20JTS9LXXO)](https://codecov.io/gh/joshparkerj/odin-project-1)
 
 # README
 
